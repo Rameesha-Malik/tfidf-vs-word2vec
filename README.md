@@ -7,5 +7,7 @@ TF-IDF vs. Word2Vec: Comparing Text Processing Techniques
 
 3-Compare both experiments in each step (tokenisation, vectorisation, and visualisations) and deduce why one is better than the other. 
 
-#Blog
+# Blog
 https://medium.com/@rameeshamalik.143/tf-idf-vs-word2vec-comparing-text-processing-techniques-922f40464c96
+# Book
+https://archive.org/details/life-3.0-being-human-in-the-age-of-artificial-intelligence_202311
